@@ -1,32 +1,32 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hai+%F0%9F%91%8B,+I'm+Akhila+Patil+M+P;Java+Full+Stack+Developer;Open+to+Job+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hai+%F0%9F%91%8B,+I'm+Shashwathi+L+P;Data+Scientist;Open+to+Job+Opportunities" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AKHILAPATILMP&style=flat-square&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=SHASHWATHILP&style=flat-square&color=brightgreen)
 
 ---
 
 ## 👩‍💻 About Me
 
-🎯 A zealous Java Developer 
+🎯 Aspiring Data Scientist | Python | SQL | Machine Learning | Eager to Solve Real-World Problems with Data
 
-💻 Passionate about Java Full Stack Web Development 
+💻 Passionate about Data Science & Machine Learning 
 
-🧠 Currently working on Web Development 
+🧠 Currently Doing a Course on AI
  
-📍 Intern @ X-Workz 
+📍 Worked as a Backend Developer Intern @ Spectrus Sustainable Solution Pvt Ltd
  
-📫 Reach me at: akhilapatilmp@gmail.com
+📫 Reach me at: shashwathilp@gmail.com
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akhila-patil-m-p-546822255/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/shashwathi-l-p-488341333/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:akhilapatilmp@gmail.com" target="_blank">
+  <a href="mailto:shashwathilp@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>
   </a>
 </p>
