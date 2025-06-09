@@ -1,28 +1,27 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hai+%F0%9F%91%8B,+I'm+Shashwathi+L+P;Data+Scientist;Open+to+Job+Opportunities" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B,+I'm+Shashwathi+L+P;Aspiring+Data+Scientist;Open+to+Job+Opportunities" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SHASHWATHILP&style=flat-square&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHASHWATHILP&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎯 Aspiring Data Scientist | Python | SQL | Machine Learning | Eager to Solve Real-World Problems with Data
-
-💻 Passionate about Data Science & Machine Learning 
-
-🧠 Currently Doing a Course on AI
- 
-📍 Worked as a Backend Developer Intern @ Spectrus Sustainable Solution Pvt Ltd
- 
-📫 Reach me at: shashwathilp@gmail.com
+- I recently graduated and I’m currently exploring the field of **Data Science**.  
+- I've done a few **mini projects** in Python and ML, and I'm continuing to learn.  
+- I worked as a **Backend Developer Intern** at **Spectrus Sustainable Solution Pvt Ltd**.  
+- You can reach me at **shashwathilp@gmail.com**.
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/shashwathi-l-p-488341333/" target="_blank">
+  <a href="https://www.linkedin.com/in/shashwathi-l-p-488341333/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;
@@ -33,68 +32,48 @@
 
 ---
 
-## 💼 Tech Stack & Tools
+## 🧰 Tools I Use
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50"/>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="50"/>
-  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>
 </p>
 
 ---
 
-## 📚 Currently Learning  
+## 📘 Learning & Practicing
 
-- Fullstack Web Development  
-- Frontend Design  
-- Git & GitHub Best Practices  
-- Mysql
+- Python basics & core libraries  
+- SQL for data handling  
+- Machine Learning concepts  
+- Git & GitHub workflow  
+- Working on small projects to improve  
 
 ---
-## 📚 What I Have Learned in Java
 
-- Covered all OOPs concepts:
-  - Inheritance, Polymorphism and its types, Abstraction, Encapsulation,Interface
-  - Method Overriding, Method Overloading, Constructor Chaining,Different methods
-  - Type Casting and Object class methods: equals(), hashCode(), toString(), etc.
- 
-## 💼 Backend Skills
+## 📁 Notable Projects
 
-- Currently learning:
-  - Servlets
-  - JDBC
-  - MySQL
- 
-## 📁 My GitHub Repositories
+- **EduBrief** – Final year project: An NLP-based NPTEL video summarizer using Python, OpenAI API, OCR, NLTK, Tkinter, and more  
+- Personal code & practice from learning: ML models, logic-building, Python scripts
 
-- I have uploaded what I’ve learned and implemented.
-- Topics include OOPs, Java logic building,backend basics,HTML,CSS,JS.
-- More implementations are in progress — check out the repos section!
+---
 
-  
 ## 📊 GitHub Stats
 
-![Akhila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKHILAPATILMP&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AKHILAPATILMP&theme=radical)
-
----
-
-## 📈 Top Languages by Repo & Commit
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHASHWATHILP&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHWATHILP&layout=compact&theme=radical" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=donut&theme=radical" width="45%"/>
+  <img src="https://streak-stats.demolab.com/?user=SHASHWATHILP&theme=radical" width="60%" />
 </p>
 
 ---
 
-*Thanks for Visiting my Profile!*
+<p align="center">
+  🙏 *Thanks for stopping by!*  
+</p>
